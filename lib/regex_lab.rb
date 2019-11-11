@@ -21,9 +21,8 @@ if text.match(/^[A-Z]/) && text.match(/[\.]$/)
   else 
     false
   end
-  
 end
 
 def valid_phone_number?(phone)
-i=
+
 end
