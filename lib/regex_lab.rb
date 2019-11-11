@@ -11,7 +11,8 @@ text.scan(/un\w+ing/)
 end
 
 def words_five_letters_long(text)
-
+return_array = text.split(" ")
+return_array.grep(/\b\)
 end
 
 def first_word_capitalized_and_ends_with_punctuation?(text)
